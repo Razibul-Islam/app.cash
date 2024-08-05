@@ -25,6 +25,7 @@ export default function CashPin({ next }) {
             inputStyle={
               "rounded-full bg-slate-600 !w-5 h-5 border-none outline-none text-white"
             }
+            shouldAutoFocus={true}
           />
         </div>
 

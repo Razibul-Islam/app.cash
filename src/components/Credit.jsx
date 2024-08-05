@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 export default function Credit({ next }) {
   return (
     <div className="w-screen h-screen flex items-center justify-center md:px-0 px-5">
